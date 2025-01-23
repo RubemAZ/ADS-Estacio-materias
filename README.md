@@ -36,6 +36,8 @@ de 80h (Até a presente data deste manifesto 22/01/2025):
  - Sistemas de Informação e Sociedade
  - Padrões de Projeto de Software com JAVA
 
+## Este é todo o conteúdo que tenho acesso como aluno da Estácio e acredi
+
     
 
 
